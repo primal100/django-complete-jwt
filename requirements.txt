@@ -1,0 +1,5 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+social-auth-core
+social-auth-app-django
